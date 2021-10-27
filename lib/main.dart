@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:registration_morning/SplashScreen.dart';
+import 'package:registration_morning/27-10-2021/SplashScreen.dart';
 
 void main() {
   runApp(const MyApp());
