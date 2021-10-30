@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.farhan.registration_morning">
    <application
-        android:label="registration_morning"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Morning Batch"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
