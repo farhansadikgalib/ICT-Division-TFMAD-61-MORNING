@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:registration_morning/01-11-2021%20class%2024/Expandable%20Screen.dart';
 import 'package:registration_morning/27-10-2021/SplashScreen.dart';
 
 void main() {
@@ -26,7 +27,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: SplashScreen(),
+      home: ExpandableScreen(),
     );
   }
 }
