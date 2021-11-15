@@ -5,6 +5,7 @@ import 'package:registration_morning/03-11-2021%20class%2025/Drawer.dart';
 import 'package:registration_morning/08-11-2021%20class%2026/GlowEffect.dart';
 import 'package:registration_morning/13-11-2021%20class%2027/GridViewWithCardDesign.dart';
 import 'package:registration_morning/13-11-2021%20class%2027/GridWithListItems.dart';
+import 'package:registration_morning/15-11-2021%20class%2028/LocalJsonWithSearchbar.dart';
 import 'package:registration_morning/27-10-2021/SplashScreen.dart';
 
 void main() {
@@ -32,7 +33,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: GridWithListItems()
+      home: LocalJsonWithSearchBar()
     );
   }
 }
