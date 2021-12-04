@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606927360508",
+    "project_id": "fir-everything-ca146",
+    "storage_bucket": "fir-everything-ca146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606927360508:android:3000062152919cf48e2279",
+        "android_client_info": {
+          "package_name": "com.farhan.registration_morning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606927360508-1hg0ergdnoo0nk1cv3ramha3n1ksfjnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farhan.registration_morning",
+            "certificate_hash": "3f7ae93b43794e40429d4f00526501ed4a0bcd47"
+          }
+        },
+        {
+          "client_id": "606927360508-v1b0p4en96kjaqkskio16er6meso7ime.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu-lj3b4bPD8n8HWDGLeS4ybwXry4nLrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606927360508-v1b0p4en96kjaqkskio16er6meso7ime.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
