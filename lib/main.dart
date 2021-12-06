@@ -3,6 +3,7 @@ import 'package:registration_morning/01-11-2021%20class%2024/Expandable%20Screen
 import 'package:registration_morning/03-11-2021%20class%2025/ContactList.dart';
 import 'package:registration_morning/03-11-2021%20class%2025/Drawer.dart';
 import 'package:registration_morning/04-12-2021%20class%2034/RegistrationPage.dart';
+import 'package:registration_morning/06-12-21%20class%2035/FirebaseRealtimeDataView.dart';
 import 'package:registration_morning/08-11-2021%20class%2026/GlowEffect.dart';
 import 'package:registration_morning/13-11-2021%20class%2027/GridViewWithCardDesign.dart';
 import 'package:registration_morning/13-11-2021%20class%2027/GridWithListItems.dart';
@@ -36,7 +37,7 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
         primarySwatch: Colors.blue,
       ),
-      home: SignUpPageWithFirebase()
+      home: FirebaseRealtimeDatabaseWithDataView()
     );
   }
 }
