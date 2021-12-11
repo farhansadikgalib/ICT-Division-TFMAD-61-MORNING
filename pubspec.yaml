@@ -41,7 +41,7 @@ dependencies:
   expandable_widgets: ^1.0.2
   flutter_glow: ^0.2.0
   fluttertoast: ^8.0.8
-  firebase_core: ^1.10.2
+  firebase_core: ^1.10.5
   firebase_database: ^8.2.0
   google_sign_in: ^5.2.1
   provider: ^6.0.1

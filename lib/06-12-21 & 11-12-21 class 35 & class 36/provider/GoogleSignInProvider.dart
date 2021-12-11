@@ -13,7 +13,7 @@ GoogleSignInProvider(){
 }
 
 
-bool get isSignIn => _isSignIn;
+bool get isSigningIn => _isSignIn;
 
 
 set isSigningIn(bool isSigningIn){
@@ -57,8 +57,6 @@ void logout()async{
   FirebaseAuth.instance.signOut();
 
 }
-
-
 
 
 

@@ -44,6 +44,8 @@ class _FirebaseRealtimeDatabaseWithDataViewState
                       Text("User phone is " + list[index]['phone']),
                       Text("User email is " + list[index]['email']),
                       Text("User password is " + list[index]['password']),
+
+                      SizedBox(height: 150,)
                     ],
                   );
                 });
